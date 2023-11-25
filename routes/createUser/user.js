@@ -1,6 +1,5 @@
-const { createUser } = require("../../api/createUser");
-
 const router = require("express").Router();
+const { createUser } = require("../../api/createUser");
 
 router.post("/users", createUser);
 

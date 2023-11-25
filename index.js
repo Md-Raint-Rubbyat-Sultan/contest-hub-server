@@ -9,6 +9,7 @@ const connectDB = require("./db/connectDB");
 const applyMiddlewares = require("./middlewares/applyMiddlewares");
 const auth = require("./routes/authentication/auth");
 const user = require("./routes/createUser/user");
+const contests = require("./routes/contests/contests");
 
 // middlewares
 applyMiddlewares(app);
@@ -20,6 +21,9 @@ app.use("/api/v1", auth);
 
 // user Route
 app.use("/api/v1", user);
+
+// contest route
+app.use("/api/v1", contests);
 
 app.get("/health", (req, res) => {
   res.send("contest is coming!");

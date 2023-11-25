@@ -1,0 +1,163 @@
+[
+  {
+    "name": "Epic Gaming Challenge",
+    "category": "Games",
+    "prize": 2000,
+    "participation_count": 50,
+    "contest_description": "Gear up for the Epic Gaming Challenge! This contest is a battleground for gamers to showcase their skills and compete in various gaming genres. Join us for an adrenaline-fueled gaming experience.",
+    "details": "The Epic Gaming Challenge invites gamers to compete in a variety of games, from FPS to strategy and everything in between. Participants will battle it out for the title of the ultimate gamer. The winning individual or team will receive a cash prize of $2000 and gaming peripherals.",
+    "date": "2024-07-01",
+    "winner": {
+      "name": "none",
+      "img": " ",
+      "email": " "
+    },
+    "img": "https://images.unsplash.com/photo-1601162937667-08f083516d57?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "host": {
+      "name": "vinci",
+      "email": "vinci@konchi.com",
+      "img": "https://i.ibb.co/zhN4qwc/Rectangle-15.png",
+      "role": "host"
+    },
+    "task": "Compete in various gaming genres to prove you're the ultimate gamer.",
+    "approved": "confirmed"
+  },
+  {
+    "name": "Medical Innovation Challenge",
+    "category": "Medical Contest",
+    "prize": 3000,
+    "participation_count": 30,
+    "contest_description": "Join the Medical Innovation Challenge and contribute to advancements in healthcare! This contest encourages medical professionals and innovators to present groundbreaking solutions. Join us in shaping the future of medicine.",
+    "details": "The Medical Innovation Challenge invites participants to present innovative solutions that address challenges in healthcare. Whether it's a new medical device, treatment method, or healthcare management system, participants will showcase their groundbreaking ideas. The winning innovation will receive a cash prize of $3000 and mentorship from industry experts.",
+    "date": "2024-07-15",
+    "winner": {
+      "name": "none",
+      "img": " ",
+      "email": " "
+    },
+    "img": "https://images.unsplash.com/photo-1486825586573-7131f7991bdd?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "host": {
+      "name": "vinci",
+      "email": "vinci@konchi.com",
+      "img": "https://i.ibb.co/zhN4qwc/Rectangle-15.png",
+      "role": "host"
+    },
+    "task": "Present an innovative solution that addresses challenges in healthcare.",
+    "approved": "confirmed"
+  },
+  {
+    "name": "Creative Writing Marathon",
+    "category": "Article",
+    "prize": 1000,
+    "participation_count": 80,
+    "contest_description": "Embark on a Creative Writing Marathon and let your words flow! This contest challenges writers to showcase their creativity and storytelling skills in a marathon-style writing event. Join us for a literary adventure.",
+    "details": "The Creative Writing Marathon invites writers to participate in a marathon-style event where they will create compelling and imaginative stories within a set time frame. Participants will be judged on creativity, storytelling, and overall engagement. The winning writer will receive a cash prize of $1000 and the opportunity to publish their work.",
+    "date": "2023-08-01",
+    "winner": {
+      "name": "StoryWeaver",
+      "img": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "email": "storyweaver@example.com"
+    },
+    "img": "https://images.unsplash.com/photo-1542435503-956c469947f6?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "host": {
+      "name": "vinci",
+      "email": "vinci@konchi.com",
+      "img": "https://i.ibb.co/zhN4qwc/Rectangle-15.png",
+      "role": "host"
+    },
+    "task": "Participate in a marathon-style writing event and create compelling stories.",
+    "approved": "confirmed"
+  },
+  {
+    "name": "Entrepreneurship Challenge",
+    "category": "Business Contest",
+    "prize": 4000,
+    "participation_count": 50,
+    "contest_description": "Dive into the Entrepreneurship Challenge and pitch your business ideas! This contest is an opportunity for entrepreneurs to showcase their innovative business concepts. Join us in the journey of business innovation.",
+    "details": "The Entrepreneurship Challenge invites entrepreneurs to pitch their business ideas to a panel of judges. Participants will present their concepts, business plans, and growth strategies. The winning business idea will receive a cash prize of $4000 and support for business development.",
+    "date": "2023-08-15",
+    "winner": {
+      "name": "InnovateHub Solutions",
+      "img": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "email": "innovatehub@example.com"
+    },
+    "img": "https://plus.unsplash.com/premium_photo-1661729560416-05321b808d1e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "host": {
+      "name": "vinci",
+      "email": "vinci@konchi.com",
+      "img": "https://i.ibb.co/zhN4qwc/Rectangle-15.png",
+      "role": "host"
+    },
+    "task": "Pitch your innovative business idea to a panel of judges.",
+    "approved": "confirmed"
+  },
+  {
+    "name": "Game Design Sprint",
+    "category": "Games",
+    "prize": 2500,
+    "participation_count": 40,
+    "contest_description": "Get ready for the Game Design Sprint! This contest challenges game developers and designers to create a playable game prototype within a limited time frame. Join us for a sprint of creativity and game development.",
+    "details": "The Game Design Sprint is a rapid game development competition where participants will create a playable game prototype within a specified time frame. Whether it's a mobile game, PC game, or board game, participants will showcase their game design and development skills. The winning game will receive a cash prize of $2500 and recognition in the gaming community.",
+    "date": "2024-09-01",
+    "winner": {
+      "name": "none",
+      "img": " ",
+      "email": " "
+    },
+    "img": "https://images.unsplash.com/photo-1601162937667-08f083516d57?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "host": {
+      "name": "vinci",
+      "email": "vinci@konchi.com",
+      "img": "https://i.ibb.co/zhN4qwc/Rectangle-15.png",
+      "role": "host"
+    },
+    "task": "Create a playable game prototype within a specified time frame.",
+    "approved": "confirmed"
+  },
+  {
+    "name": "HealthTech App Challenge",
+    "category": "Medical Contest",
+    "prize": 3500,
+    "participation_count": 25,
+    "contest_description": "Participate in the HealthTech App Challenge and develop innovative healthcare applications! This contest is open to software developers and healthcare professionals. Join us in shaping the future of health technology.",
+    "details": "The HealthTech App Challenge invites participants to develop innovative mobile or web applications that address challenges in healthcare. Whether it's improving patient care, streamlining medical workflows, or enhancing health communication, participants will showcase their app development skills. The winning app will receive a cash prize of $3500 and the opportunity for further development.",
+    "date": "2024-09-15",
+    "winner": {
+      "name": "none",
+      "img": " ",
+      "email": " "
+    },
+    "img": "https://images.unsplash.com/photo-1486825586573-7131f7991bdd?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "host": {
+      "name": "vinci",
+      "email": "vinci@konchi.com",
+      "img": "https://i.ibb.co/zhN4qwc/Rectangle-15.png",
+      "role": "host"
+    },
+    "task": "Develop an innovative mobile or web application for healthcare.",
+    "approved": "confirmed"
+  },
+  {
+    "name": "Tech Article Writing Contest",
+    "category": "Article",
+    "prize": 800,
+    "participation_count": 30,
+    "contest_description": "Participate in the Tech Article Writing Contest and showcase your expertise in technology writing! This contest is open to writers passionate about exploring and explaining the latest tech trends.",
+    "details": "The Tech Article Writing Contest invites writers to submit articles that explore and explain the latest trends and developments in technology. Whether it's AI, blockchain, or the latest gadgets, participants will showcase their expertise in tech writing. The winning article will receive a cash prize of $800 and publication in a tech magazine.",
+    "date": "2025-01-01",
+    "winner": {
+      "name": "none",
+      "img": " ",
+      "email": " "
+    },
+    "img": "https://images.unsplash.com/photo-1542435503-956c469947f6?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "host": {
+      "name": "vinci",
+      "email": "vinci@konchi.com",
+      "img": "https://i.ibb.co/zhN4qwc/Rectangle-15.png",
+      "role": "host"
+    },
+    "task": "Submit articles exploring and explaining the latest trends and developments in technology.",
+    "approved": "confirmed"
+  }
+]
