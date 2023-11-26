@@ -2,6 +2,7 @@
   {
     "name": "Epic Gaming Challenge",
     "category": "Games",
+    "price": 10,
     "prize": 2000,
     "participation_count": 50,
     "contest_description": "Gear up for the Epic Gaming Challenge! This contest is a battleground for gamers to showcase their skills and compete in various gaming genres. Join us for an adrenaline-fueled gaming experience.",
@@ -25,6 +26,7 @@
   {
     "name": "Medical Innovation Challenge",
     "category": "Medical Contest",
+    "price": 20,
     "prize": 3000,
     "participation_count": 30,
     "contest_description": "Join the Medical Innovation Challenge and contribute to advancements in healthcare! This contest encourages medical professionals and innovators to present groundbreaking solutions. Join us in shaping the future of medicine.",
@@ -48,6 +50,7 @@
   {
     "name": "Creative Writing Marathon",
     "category": "Article",
+    "price": 20,
     "prize": 1000,
     "participation_count": 80,
     "contest_description": "Embark on a Creative Writing Marathon and let your words flow! This contest challenges writers to showcase their creativity and storytelling skills in a marathon-style writing event. Join us for a literary adventure.",
@@ -71,6 +74,7 @@
   {
     "name": "Entrepreneurship Challenge",
     "category": "Business Contest",
+    "price": 40,
     "prize": 4000,
     "participation_count": 50,
     "contest_description": "Dive into the Entrepreneurship Challenge and pitch your business ideas! This contest is an opportunity for entrepreneurs to showcase their innovative business concepts. Join us in the journey of business innovation.",
@@ -94,6 +98,7 @@
   {
     "name": "Game Design Sprint",
     "category": "Games",
+    "price": 30,
     "prize": 2500,
     "participation_count": 40,
     "contest_description": "Get ready for the Game Design Sprint! This contest challenges game developers and designers to create a playable game prototype within a limited time frame. Join us for a sprint of creativity and game development.",
@@ -117,6 +122,7 @@
   {
     "name": "HealthTech App Challenge",
     "category": "Medical Contest",
+    "price": 10,
     "prize": 3500,
     "participation_count": 25,
     "contest_description": "Participate in the HealthTech App Challenge and develop innovative healthcare applications! This contest is open to software developers and healthcare professionals. Join us in shaping the future of health technology.",
@@ -140,6 +146,7 @@
   {
     "name": "Tech Article Writing Contest",
     "category": "Article",
+    "price": 5,
     "prize": 800,
     "participation_count": 30,
     "contest_description": "Participate in the Tech Article Writing Contest and showcase your expertise in technology writing! This contest is open to writers passionate about exploring and explaining the latest tech trends.",
