@@ -13,6 +13,10 @@ const contestSchema = new Schema({
     type: Number,
     required: true,
   },
+  price: {
+    type: Number,
+    required: true,
+  },
   participation_count: {
     type: Number,
     required: true,
