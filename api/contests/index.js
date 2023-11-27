@@ -3,6 +3,7 @@ const allContests = require("./allContests");
 const bestCreator = require("./bestCreator");
 const contestCategories = require("./contestCategory");
 const singleContest = require("./singleContest");
+const hostConfirmed = require("./hostConfirmed");
 
 module.exports = {
   popularContest,
@@ -10,4 +11,5 @@ module.exports = {
   bestCreator,
   contestCategories,
   singleContest,
+  hostConfirmed,
 };
