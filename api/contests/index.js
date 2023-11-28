@@ -7,8 +7,11 @@ const hostConfirmed = require("./hostConfirmed");
 const addAContest = require("./addAContest");
 const pendingContests = require("./pendingContests");
 const deletePending = require("./deletePending");
+const deleteContest = require("./deleteContest");
 const fullContests = require("./fullContests");
 const allPendingContests = require("./allPendingContests");
+const singlePendingContest = require("./singlePendingContest");
+const updatePending = require("./updatePending");
 
 module.exports = {
   popularContest,
@@ -20,6 +23,9 @@ module.exports = {
   addAContest,
   pendingContests,
   deletePending,
+  deleteContest,
   fullContests,
   allPendingContests,
+  singlePendingContest,
+  updatePending,
 };
