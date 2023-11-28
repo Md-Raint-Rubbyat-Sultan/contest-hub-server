@@ -14,6 +14,7 @@ const {
   deleteContest,
   singlePendingContest,
   updatePending,
+  approveContest,
 } = require("../../api/contests");
 const verifyToken = require("../../middlewares/varifyToken");
 const verifyAdmin = require("../../middlewares/verifyHost");
@@ -26,6 +27,9 @@ router.get("/contests-by-category/", allContests);
 router.get("/contests", fullContests);
 
 router.delete("/contests/:id", verifyToken, verifyAdmin, deleteContest);
+
+router.patch("/approve-contests/:id", verifyToken, verifyAdmin, approveContest);
+// verifyToken, verifyAdmin,
 
 router.get("/pending", verifyToken, verifyAdmin, allPendingContests);
 

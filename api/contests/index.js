@@ -12,6 +12,7 @@ const fullContests = require("./fullContests");
 const allPendingContests = require("./allPendingContests");
 const singlePendingContest = require("./singlePendingContest");
 const updatePending = require("./updatePending");
+const approveContest = require("./approveContest");
 
 module.exports = {
   popularContest,
@@ -28,4 +29,5 @@ module.exports = {
   allPendingContests,
   singlePendingContest,
   updatePending,
+  approveContest,
 };
