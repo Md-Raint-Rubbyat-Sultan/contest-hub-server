@@ -6,7 +6,7 @@ const cors = require("cors");
 const applyMiddlewares = (app) => {
   app.use(
     cors({
-      origin: [process.env.LOCAL_LINK],
+      origin: ["https://contest-hub-aaa97.web.app"],
       credentials: true,
     })
   );

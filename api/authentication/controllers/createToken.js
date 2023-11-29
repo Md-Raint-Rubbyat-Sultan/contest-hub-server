@@ -12,8 +12,8 @@ const createToken = (req, res, next) => {
     res
       .cookie("token", token, {
         httpOnly: true,
-        secure: false,
-        // sameSite: "none"
+        secure: true,
+        sameSite: "none",
       })
       .send({ message: true });
   } catch (error) {
