@@ -5,6 +5,18 @@ const paymentSchema = new Schema({
     type: String,
     required: true,
   },
+  contestName: {
+    type: String,
+    required: true,
+  },
+  category: {
+    type: String,
+    required: true,
+  },
+  contestDate: {
+    type: String,
+    required: true,
+  },
   userName: {
     type: String,
     required: true,
@@ -20,7 +32,15 @@ const paymentSchema = new Schema({
     type: String,
     required: true,
   },
+  task: {
+    type: String,
+    required: true,
+  },
   price: {
+    type: Number,
+    required: true,
+  },
+  prize: {
     type: Number,
     required: true,
   },

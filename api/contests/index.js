@@ -13,6 +13,8 @@ const allPendingContests = require("./allPendingContests");
 const singlePendingContest = require("./singlePendingContest");
 const updatePending = require("./updatePending");
 const approveContest = require("./approveContest");
+const updateParticipationCount = require("./updateParticitionCount");
+const makeWinner = require("./makeWinner");
 
 module.exports = {
   popularContest,
@@ -30,4 +32,6 @@ module.exports = {
   singlePendingContest,
   updatePending,
   approveContest,
+  updateParticipationCount,
+  makeWinner,
 };

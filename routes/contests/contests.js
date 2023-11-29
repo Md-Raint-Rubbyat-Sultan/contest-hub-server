@@ -15,6 +15,8 @@ const {
   singlePendingContest,
   updatePending,
   approveContest,
+  updateParticipationCount,
+  makeWinner,
 } = require("../../api/contests");
 const verifyToken = require("../../middlewares/varifyToken");
 const verifyAdmin = require("../../middlewares/verifyHost");
@@ -29,7 +31,10 @@ router.get("/contests", fullContests);
 router.delete("/contests/:id", verifyToken, verifyAdmin, deleteContest);
 
 router.patch("/approve-contests/:id", verifyToken, verifyAdmin, approveContest);
-// verifyToken, verifyAdmin,
+
+router.patch("/make-winner/:id", verifyToken, verifyHost, makeWinner);
+
+router.patch("/update-participation-count/:id", updateParticipationCount);
 
 router.get("/pending", verifyToken, verifyAdmin, allPendingContests);
 
